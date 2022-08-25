@@ -1,3 +1,4 @@
 [submodule "cppcodec"]
 	path = cppcodec
-	url = https://github.com/tplgy/cppcodec
+	url = https://github.com/jpetso/cppcodec
+	branch = modern-cmake
